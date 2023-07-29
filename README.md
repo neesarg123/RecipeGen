@@ -6,6 +6,7 @@ With **ChatGPT**, you can ask for a step-by-step recipe of virtually any dish an
 
 So why not **merge these two amazing use cases together** to allow for a **streamlined experience of cooking novel recipes based on the ingredients you possess**?
 ### How to use
+Firstly, clone this repository and install dependencies using `pip install -r requirements.txt`
 #### Setting up the Notion side
 Step 0: Download Notion
 
