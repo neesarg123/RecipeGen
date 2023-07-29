@@ -1,0 +1,206 @@
+{
+    "object": "list",
+    "results": [
+        {
+            "object": "page",
+            "id": "415906da-2784-4a62-a605-1f43eb28e583",
+            "created_time": "2023-07-29T22:36:00.000Z",
+            "last_edited_time": "2023-07-29T22:37:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "99b2ab9f-1e7a-49b8-bcfb-7d0c0f188364"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "99b2ab9f-1e7a-49b8-bcfb-7d0c0f188364"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "a35de008-cf2a-4b3f-bbcd-8fb92c22c76d"
+            },
+            "archived": false,
+            "properties": {
+                "Type": {
+                    "id": "HI_H",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "88a470e3-b633-4df2-b5b7-008601454788",
+                            "name": "Condiment",
+                            "color": "orange"
+                        },
+                        {
+                            "id": "57d42bd0-c904-4242-82ba-3b9da4d17f94",
+                            "name": "Snack",
+                            "color": "yellow"
+                        }
+                    ]
+                },
+                "Have it?": {
+                    "id": "hECF",
+                    "type": "checkbox",
+                    "checkbox": true
+                },
+                "Item": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Peanut Butter",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Peanut Butter",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Peanut-Butter-415906da27844a62a6051f43eb28e583",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "0fd932a6-74a6-4072-9325-1ac27cb6e299",
+            "created_time": "2023-07-29T18:57:00.000Z",
+            "last_edited_time": "2023-07-29T22:37:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "99b2ab9f-1e7a-49b8-bcfb-7d0c0f188364"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "99b2ab9f-1e7a-49b8-bcfb-7d0c0f188364"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "a35de008-cf2a-4b3f-bbcd-8fb92c22c76d"
+            },
+            "archived": false,
+            "properties": {
+                "Type": {
+                    "id": "HI_H",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "eae088a7-dee9-4a7c-9a34-497353b2f93f",
+                            "name": "Veggie",
+                            "color": "pink"
+                        }
+                    ]
+                },
+                "Have it?": {
+                    "id": "hECF",
+                    "type": "checkbox",
+                    "checkbox": false
+                },
+                "Item": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Onions",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Onions",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Onions-0fd932a674a6407293251ac27cb6e299",
+            "public_url": null
+        },
+        {
+            "object": "page",
+            "id": "a8038d5a-97d3-4b0f-b31a-1113f2528a34",
+            "created_time": "2023-07-29T18:57:00.000Z",
+            "last_edited_time": "2023-07-29T22:36:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "99b2ab9f-1e7a-49b8-bcfb-7d0c0f188364"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "99b2ab9f-1e7a-49b8-bcfb-7d0c0f188364"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "a35de008-cf2a-4b3f-bbcd-8fb92c22c76d"
+            },
+            "archived": false,
+            "properties": {
+                "Type": {
+                    "id": "HI_H",
+                    "type": "multi_select",
+                    "multi_select": [
+                        {
+                            "id": "eae088a7-dee9-4a7c-9a34-497353b2f93f",
+                            "name": "Veggie",
+                            "color": "pink"
+                        }
+                    ]
+                },
+                "Have it?": {
+                    "id": "hECF",
+                    "type": "checkbox",
+                    "checkbox": true
+                },
+                "Item": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Potatoes",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Potatoes",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Potatoes-a8038d5a97d34b0fb31a1113f2528a34",
+            "public_url": null
+        }
+    ],
+    "next_cursor": null,
+    "has_more": false,
+    "type": "page_or_database",
+    "page_or_database": {}
+}
